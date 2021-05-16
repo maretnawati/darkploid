@@ -1,0 +1,2 @@
+# darkploid
+Skrip darkploid
